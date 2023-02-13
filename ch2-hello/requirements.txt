@@ -1,0 +1,5 @@
+asgiref==3.6.0
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+Django==4.1.6
+env==0.1.0
+sqlparse==0.4.3
